@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: a79942b9fdb732549b56870e5571721a
+  - enabled: 0
+    path: Assets/Scenes/Coin.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/selection.unity
+    guid: a48e823664ae9c24aafa40f4c60bba2d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/How.unity
+    guid: 6f7d2e8acce25f144a820f14a0da5716
+  - enabled: 1
+    path: Assets/Scenes/contact.unity
+    guid: e11dfb5450dc1184eaccc40eda01ac9a
+  - enabled: 0
+    path: Assets/Scenes/Food.unity
+    guid: 7ada3485a17750c40b80006e5afc0d01
+  - enabled: 1
+    path: Assets/Scenes/Light.unity
+    guid: 4f96dc42996121c45bf4f16e3d5b8f5f
+  m_configObjects: {}
